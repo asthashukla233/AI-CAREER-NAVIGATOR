@@ -1,0 +1,248 @@
+{
+  "Software Engineer": {
+    "packages": {
+      "0-4": {
+        "skills": [
+          "python",
+          "java",
+          "sql",
+          "git"
+        ],
+        "core_subjects": [
+          "oops"
+        ],
+        "dsa_level": "easy",
+        "projects": 1
+      },
+
+      "5-9": {
+        "skills": [
+          "python",
+          "java",
+          "sql",
+          "git",
+          "github",
+          "rest api"
+        ],
+        "core_subjects": [
+          "oops",
+          "dbms",
+          "operating systems"
+        ],
+        "dsa_level": "medium",
+        "projects": 2
+      },
+
+      "10-14": {
+        "skills": [
+          "python",
+          "java",
+          "sql",
+          "docker",
+          "rest api",
+          "github"
+        ],
+        "core_subjects": [
+          "oops",
+          "dbms",
+          "operating systems",
+          "computer networks"
+        ],
+        "dsa_level": "medium-hard",
+        "projects": 3
+      },
+
+      "15-19": {
+        "skills": [
+          "docker",
+          "system design",
+          "microservices",
+          "aws"
+        ],
+        "core_subjects": [
+          "oops",
+          "dbms",
+          "operating systems",
+          "computer networks"
+        ],
+        "dsa_level": "hard",
+        "projects": 4
+      },
+
+      "20+": {
+        "skills": [
+          "system design",
+          "aws",
+          "kubernetes",
+          "microservices"
+        ],
+        "core_subjects": [
+          "oops",
+          "dbms",
+          "operating systems",
+          "computer networks",
+          "distributed systems"
+        ],
+        "dsa_level": "expert",
+        "projects": 5
+      }
+    }
+  },
+
+  "Data Scientist": {
+    "packages": {
+      "0-4": {
+        "skills": [
+          "python",
+          "pandas",
+          "numpy"
+        ],
+        "core_subjects": [
+          "statistics"
+        ],
+        "dsa_level": "easy",
+        "projects": 1
+      },
+
+      "5-9": {
+        "skills": [
+          "python",
+          "sql",
+          "pandas",
+          "numpy",
+          "matplotlib"
+        ],
+        "core_subjects": [
+          "statistics",
+          "probability"
+        ],
+        "dsa_level": "medium",
+        "projects": 2
+      },
+
+      "10-14": {
+        "skills": [
+          "machine learning",
+          "sql",
+          "scikit-learn",
+          "power bi"
+        ],
+        "core_subjects": [
+          "statistics",
+          "probability",
+          "linear algebra"
+        ],
+        "dsa_level": "medium",
+        "projects": 3
+      },
+
+      "15-19": {
+        "skills": [
+          "deep learning",
+          "tensorflow",
+          "pytorch"
+        ],
+        "core_subjects": [
+          "statistics",
+          "probability",
+          "linear algebra",
+          "optimization"
+        ],
+        "dsa_level": "medium-hard",
+        "projects": 4
+      },
+
+      "20+": {
+        "skills": [
+          "deep learning",
+          "pytorch",
+          "mlops",
+          "aws"
+        ],
+        "core_subjects": [
+          "statistics",
+          "probability",
+          "linear algebra",
+          "optimization"
+        ],
+        "dsa_level": "hard",
+        "projects": 5
+      }
+    }
+  },
+
+  "AI Engineer": {
+    "packages": {
+      "0-4": {
+        "skills": [
+          "python",
+          "prompt engineering"
+        ],
+        "core_subjects": [
+          "machine learning"
+        ],
+        "dsa_level": "easy",
+        "projects": 1
+      },
+
+      "5-9": {
+        "skills": [
+          "langchain",
+          "openai",
+          "huggingface"
+        ],
+        "core_subjects": [
+          "machine learning",
+          "nlp"
+        ],
+        "dsa_level": "medium",
+        "projects": 2
+      },
+
+      "10-14": {
+        "skills": [
+          "rag",
+          "vector databases",
+          "transformers"
+        ],
+        "core_subjects": [
+          "machine learning",
+          "nlp",
+          "deep learning"
+        ],
+        "dsa_level": "medium",
+        "projects": 3
+      },
+
+      "15-19": {
+        "skills": [
+          "multi agent systems",
+          "llm fine tuning",
+          "docker"
+        ],
+        "core_subjects": [
+          "machine learning",
+          "nlp",
+          "deep learning"
+        ],
+        "dsa_level": "hard",
+        "projects": 4
+      },
+
+      "20+": {
+        "skills": [
+          "llmops",
+          "kubernetes",
+          "aws"
+        ],
+        "core_subjects": [
+          "machine learning",
+          "nlp",
+          "deep learning"
+        ],
+        "dsa_level": "expert",
+        "projects": 5
+      }
+    }
+  }
+}
